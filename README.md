@@ -8,7 +8,7 @@ This project simulates a small office Local Area Network (LAN) using Cisco Packe
 
 ## 🌐 Network Topology
 
-![image2](image2)
+![Network Topology](image1)
 
 *Network topology showing Router1 (2911) connected to Switch0 (2960) serving 6 end devices: 5 PCs and 1 Printer*
 
